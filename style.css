@@ -1,0 +1,174 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.section_head {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.header {
+    text-align: center;
+    padding-top: 195px;
+    color: white;
+    width: 600px;
+    margin: 0 auto;
+}
+.header p{
+    color: white;
+}
+
+.header h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.header p {
+    padding-bottom: 25px;
+}
+
+.donat_button {
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 2px;
+}
+
+.donet_today {
+    text-align: center;
+    margin: 100px auto;
+    width: 700px;
+}
+
+.donet_today p {
+    color: rgb(130, 137, 143);
+}
+
+.amount {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+
+}
+
+.amount h3 {
+    width: 70px;
+    margin: 15px;
+    padding: 30px 10px;
+    background-color: aliceblue;
+    color: rgb(130, 137, 143);
+    border-radius: 5%;
+}
+
+#amount {
+    border: 1px solid tomato;
+    background-color: hsl(0, 100%, 97%);
+    color: tomato;
+}
+
+.donate_div input {
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 70%;
+    text-align: center;
+}
+
+.donate_plan {
+    text-align: center;
+}
+
+.flex_boy {
+    display: flex;
+}
+
+.flex_boy div {
+    text-align: center;
+    width: 33%;
+    margin: 15px;
+    padding: 30px 10px;
+    color: rgb(31, 23, 23);
+}
+
+.gray {
+    background-color: aliceblue;
+}
+
+.pink {
+    background-color: rgb(243, 186, 238);
+}
+
+.yellow {
+    background-color: rgb(243, 245, 142);
+}
+
+.gallery {
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+.gallery h1{
+    padding: 40px;
+    padding-bottom: 20px;
+}
+.gallery img {
+    width: 30%;
+    height: 180px;
+    margin: 10px;
+}
+
+
+.get_update {
+    text-align: center;
+    padding: 5px;
+  
+}
+p{
+    color: gray;
+}
+
+.subscribe_email {
+    margin: 50px;
+    background-color: #f6fca9;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.subscribe_email input {
+    width: 40%;
+    padding: 9px;
+}
+
+.subscribe {
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 2px;
+    margin: -5px;
+}
+
+footer {
+    padding: 25px 0;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.footerbar {
+    padding-bottom: 10px;
+    color: #FF5959;
+}
