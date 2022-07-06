@@ -93,6 +93,9 @@ h1 {
 
 .flex_boy {
     display: flex;
+    width: 700px;
+    margin: 0 auto;
+
 }
 
 .flex_boy div {
